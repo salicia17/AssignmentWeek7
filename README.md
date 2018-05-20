@@ -2,7 +2,7 @@
 Codepath/Facebook Course
 # Project 7 - WordPress Pentesting
 
-Time spent: **X** hours spent in total
+Time spent: 15hr or more hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
@@ -36,7 +36,7 @@ Time spent: **X** hours spent in total
         3. Refresh the page. 
         4. Hover over the link and you should receive an alert message. 
   - [ ] Affected source code:
-    - [Link 1]:https://wpvulndb.com/vulnerabilities/8186
+    - [Link 1] https://wpvulndb.com/vulnerabilities/8186
 1.  Stored Cross Site Scripting
   - [ ] Summary: 
     - Vulnerability types:XSS
@@ -49,7 +49,7 @@ Time spent: **X** hours spent in total
         3. Refresh the page. 
         4. Hover over the link and you should receive an alert message.("<a ref....") 
   - [ ] Affected source code:
-    - [Link 1]:https://klikki.fi/adv/wordpress3.html
+    - [Link 1] https://klikki.fi/adv/wordpress3.html
 
 ## Assets
 
